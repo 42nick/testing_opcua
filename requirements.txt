@@ -1,0 +1,4 @@
+opcua
+numpy
+cryptography
+dash-bootstrap-components
